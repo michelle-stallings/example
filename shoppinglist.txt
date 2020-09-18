@@ -3,3 +3,5 @@ Shopping List
  - Apples
  - Oranges
  - Cucumbers
+ - Oreos
+ - Milk
